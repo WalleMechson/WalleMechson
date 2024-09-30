@@ -3,7 +3,6 @@
   <img src="gitartwork.svg" alt="gitartwork">
 </p>
 
-- **Languages:** JavaScript, TypeScript, PHP;
 - **Frameworks:** "React", Next.js, Laravel, "Livewire";
 - **Database management systems:** Appwrite.io, Supabase, Neon.tech, PlanetScale, [MySQL, PostgreSQL, MongoDB] and Firebase which I wholeheartedly hate;
 - **Tools:** LiveKit, React-Query, Clerk, Auth.js (fka NextAuth.js), Prisma, UploadThing, Zustand, Git, Sentry, Redux, Axios;
